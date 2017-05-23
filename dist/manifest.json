@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Hide X-out Propperties",
+    "name": "Redfin helper",
     "version": "1.0",
     "description": "This extension hides all X-out properties on redfin",
     "content_scripts": [
